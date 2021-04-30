@@ -1,3 +1,9 @@
-# This is MERN Stack project 
-for design i used bootstrap. 
-Project name: Chefs point, from this site a user can hire chef and take other services and an admin can add delete service.
+# Project title : Chefs Point
+## Technology used : Front end : Reactjs, Boostrap and Backend : Express js, mongodb
+Features: Developed a website where a user can order a service, review a service and pay using stripe An admin can add, manage and delete a service and can change the status of the service
+
+Live preview: https://auth-recape-61d73.web.app/
+Back end : https://dashboard.heroku.com/apps/shielded-savannah-63633
+
+
+Developer: Kazi Minhaj @ 2021
